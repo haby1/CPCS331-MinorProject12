@@ -1,0 +1,19 @@
+Node,Connected_Node,Relationship
+Mammal,Leg,has_four
+Mammal,Land,lives_in
+Mammal,Vertebrates,are
+Lion,Mammal,isA
+Tiger,Mammal,isA
+Bee,Insect,isA
+Spider,Insect,isA
+Insect,Invertebrates,are
+Insect,Antennae ,Have
+Insect,Plants,eats
+Bird,Egg,lay
+Bird,Fly,can
+Bird,Wing,has_two
+Chicken,Bird,isA
+Canary,Bird,isA
+Mammal,Animal,isA
+Bird,Animal,isA
+Insect,Animal,isA
